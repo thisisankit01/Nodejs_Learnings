@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "app": "^0.1.0",
+    "chalk": "^5.1.0",
+    "colors": "^1.4.0",
+    "filter": "^0.1.1",
+    "simple-node-logger": "^21.8.12"
+  },
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "nodejs tutorial",
+  "main": "BasicServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/ankit.git"
+  },
+  "keywords": [
+    "this",
+    "is",
+    "my",
+    "node",
+    "tutorial"
+  ],
+  "author": "Ankit Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/ankit/issues"
+  },
+  "homepage": "https://github.com/github.com/ankit#readme"
+}
